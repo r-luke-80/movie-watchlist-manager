@@ -19,3 +19,6 @@ This application provides a simple graphical interface where users can add movie
 2. Run the program:
 ```bash
 python MovieWatchlist_V6.py
+
+## Author
+Russ Lukaszewski
